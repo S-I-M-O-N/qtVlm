@@ -110,7 +110,7 @@ void orthoSegment::draw_orthoSegment(QPainter * pnt,double i0,double j0, double 
         return;
     }
 
-    if (abs(i0-i1) > 10)
+    if (fabs(i0-i1) > 10)
     {
         double xm, ym,x0,y0,x1,y1;
         int im,jm;
