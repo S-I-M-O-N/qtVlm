@@ -12,4 +12,4 @@ Building qtVlm
 
  For windows in order to install qtVlm, you'll need to copy qtVlm.exe and tr folder to the place where you want to install qtVlm, you'll then need to copy a list of folder from base_dir to qtVlm install folder: grib, icon, img, maps, polar
 
- 
+ Get maps/gshhs from https://github.com/chartcatalogs/gshhg/releases/tag/v2.3.7 or copy gshhs folder from opencpn
